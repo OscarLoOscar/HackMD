@@ -1,4 +1,5 @@
-Author: **Vincent Lau**
+Author: [Vincent Lau](https://www.linkedin.com/in/vincent-lau-30435bb6/)
+
 Note: This material is intended for educational purposes only. All rights reserved. Any unauthorized sharing or copying of this material, in any form, to any individual or party, for any use without prior permission, is strictly prohibited.
 ### Part 0: Prerequisites
 0.1 Show hidden files & file extensions
